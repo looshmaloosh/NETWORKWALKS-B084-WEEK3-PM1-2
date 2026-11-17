@@ -182,4 +182,6 @@ All activities were conducted against authorised training files within the Netwo
 **Ali Fares**  
 Cybersecurity Intern – NetworkWalks B084  
 
+**LinkedIn:** https://www.linkedin.com/in/ali-fares-86870733a/
+
 **Project:** Week 3 – PM1 & PM2  
