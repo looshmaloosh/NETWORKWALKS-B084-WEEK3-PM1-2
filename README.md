@@ -1,7 +1,7 @@
 <div align="center">
   
 # NETWORKWALKS-B084-WEEK3-PM1-2
-NetworkWalks B084 Week 3 – Password auditing and recovery of encrypted PDF files using John the Ripper, Johnny GUI, hash extraction and wordlist attacks.
+NetworkWalks B084 Week 3 | Password auditing and recovery of encrypted PDF files using John the Ripper, Johnny GUI, hash extraction and wordlist attacks.
 </div>
 
 ## Project Overview
@@ -30,7 +30,7 @@ These exercises demonstrate how weak or predictable passwords can compromise pas
 - Password wordlists
 - NetworkWalks Online Password Recovery Tool
 
-# Project Module 1 (PM1) – John the Ripper
+# Project Module 1 (PM1) | John the Ripper
 
 ## 1. PDF Hash Extraction
 
@@ -183,8 +183,8 @@ All activities were conducted against authorised training files within the Netwo
 ## Author Information
 
 **Ali Fares**  
-Cybersecurity Intern – NetworkWalks B084  
+Cybersecurity Intern - NetworkWalks B084  
 
 **LinkedIn:** https://www.linkedin.com/in/ali-fares-86870733a/
 
-**Project:** Week 3 – PM1 & PM2  
+**Project:** Week 3 | PM1 & PM2  
