@@ -122,18 +122,21 @@ During the test, the tool successfully identified the password `password1`, demo
 After successfully completing the password recovery activities, NetworkWalks provided completion flags as evidence of successful testing.
 
 The following screenshots demonstrate the captured flags.
+![NetworkWalks Flag 1](screenshots/9.png)
 
-![NetworkWalks Flag 1](screenshots/11.png)
+*Figure 11: NetworkWalks first password recovery completion flag.*
 
-*Figure 11: NetworkWalks password recovery completion flag.*
+![NetworkWalks Flag 2](screenshots/10.png)
 
-![NetworkWalks Flag 2](screenshots/14.png)
+*Figure 12: NetworkWalks second password recovery completion flag.*
 
-*Figure 12: NetworkWalks additional password recovery completion flag.*
+![NetworkWalks Flag 3](screenshots/11.png)
 
-![NetworkWalks Flag 3](screenshots/9.png)
+*Figure 13: NetworkWalks third password recovery completion flag.*
 
-*Figure 13: NetworkWalks final completion flag.*
+![NetworkWalks Flag 4](screenshots/14.png)
+
+*Figure 14: NetworkWalks final completion flag.*
 
 # Results and Lessons Learned
 
